@@ -102,7 +102,7 @@ src/
 
 ## 👤 Author
 
-Built by **[Your Name]** as a QA Portfolio project.
+Built by **Rishi Shah** as a QA Portfolio project.
 
 ---
 
